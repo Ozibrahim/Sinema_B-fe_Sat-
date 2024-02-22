@@ -1,0 +1,17 @@
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\bin\Debug\net6.0-windows\Sinema_Büfe_Satiş.exe
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\bin\Debug\net6.0-windows\Sinema_Büfe_Satiş.deps.json
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\bin\Debug\net6.0-windows\Sinema_Büfe_Satiş.runtimeconfig.json
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\bin\Debug\net6.0-windows\Sinema_Büfe_Satiş.dll
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\bin\Debug\net6.0-windows\Sinema_Büfe_Satiş.pdb
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\Sinema_Büfe_Satiş.Form1.resources
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\Sinema_Büfe_Satiş.Properties.Resources.resources
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\Sinema_Büfe_Satiş.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\Sinema_Büfe_Satiş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\Sinema_Büfe_Satiş.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\Sinema_Büfe_Satiş.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\Sinema_Büfe_Satiş.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\Sinema_Büfe_Satiş.dll
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\refint\Sinema_Büfe_Satiş.dll
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\Sinema_Büfe_Satiş.pdb
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\Sinema_Büfe_Satiş.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\OrnekProje\C_Projeler\Sinema_Büfe_Satiş\obj\Debug\net6.0-windows\ref\Sinema_Büfe_Satiş.dll
